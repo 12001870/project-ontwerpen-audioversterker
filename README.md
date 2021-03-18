@@ -12,3 +12,6 @@ This is the 60W audio amplifier.
 ![schemaVersterker](https://user-images.githubusercontent.com/79916453/111691067-32f93c80-882e-11eb-8dd4-58179495f595.PNG)
 
 ## Part list
+These are all the components and parts that I need to buy or make.
+
+![onderdelenLijst](https://user-images.githubusercontent.com/79916453/111691248-6cca4300-882e-11eb-9296-9594ce9e5629.PNG)
