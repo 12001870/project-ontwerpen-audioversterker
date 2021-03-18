@@ -4,5 +4,4 @@ my project is a 60W audio amplifier. This project seemed very interesting to me 
 
 This is the 60W audio amplifier.
 
-
 ![fotoAudioversteker](https://user-images.githubusercontent.com/79916453/111689609-8a96a880-882c-11eb-8c14-2ba126fa368e.PNG)
