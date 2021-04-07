@@ -8,7 +8,7 @@ This is the 60W audio amplifier.
 ![fotoAudioversteker](https://user-images.githubusercontent.com/79916453/111689609-8a96a880-882c-11eb-8c14-2ba126fa368e.PNG)
 
 ## Schematic
-This is my electric scheme that i made with the program Altium.
+This is my electrical scheme that I have to make in the altium program.
 ![schemaVersterker](https://user-images.githubusercontent.com/79916453/111691067-32f93c80-882e-11eb-8dd4-58179495f595.PNG)
 
 ## Part list
